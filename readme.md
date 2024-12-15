@@ -119,4 +119,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-||HTML & CSS Full Course for free| To learn how to use css and html |[https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ]|
+||HTML & CSS Full Course for free| To learn how to use css and html|[https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ]|
