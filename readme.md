@@ -59,7 +59,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Showcasing my skills, experience, and qualifications in an engaging and visually appealing format.
 
 Guiding Question:
 - What is the project - Multiple Page Interface
